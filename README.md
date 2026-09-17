@@ -181,4 +181,4 @@ The application launches a calculator window where users can perform calculation
 
 ## Author
 
-Developed in Python using Tkinter GUI framework as part of **Assignment 6 - Create Calculator Using Tkinter GUI**.
+Developed in Python using Tkinter GUI framework as part of **Create Calculator Using Tkinter GUI**.
